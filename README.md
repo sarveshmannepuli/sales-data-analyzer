@@ -1,13 +1,24 @@
 # sales-data-analyzer
 
-This project analyzes sales data using Python.
+A Python project that analyzes sales data and generates insights.
 
-## Features
+## 📊 Features
 - Reads CSV data using pandas
-- Calculates revenue and top products
-- Visualizes data using matplotlib
+- Calculates total revenue and product-wise performance
+- Identifies top-performing product
+- Visualizes results using matplotlib
 
-## Tools Used
+## 🛠️ Tech Stack
 - Python
 - Pandas
 - Matplotlib
+
+## ▶️ How to Run
+1. Install libraries:
+   pip install pandas matplotlib
+2. Run:
+   python sales_analysis.py
+
+## 📈 Output
+- Console output showing revenue insights
+- Bar chart visualization of product sales
