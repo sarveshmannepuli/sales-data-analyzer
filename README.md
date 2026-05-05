@@ -23,4 +23,4 @@ A Python project that analyzes sales data and generates insights.
 - Console output showing revenue insights
 - Bar chart visualization of product sales
 ## 📊 Sample Output
-![Output](output.png)
+![Output](output.png.png)
